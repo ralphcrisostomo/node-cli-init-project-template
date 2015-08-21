@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-new require('../dist/app')();
+new require('../dist/app');

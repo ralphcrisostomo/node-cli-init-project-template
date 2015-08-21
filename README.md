@@ -1,7 +1,7 @@
 ## Clone
 ```bash
 
-    $ git clone 
+    $ git clone git@github.com:ralphcrisostomo/node-cli-init-project-template.git ProjectName
 
 ```
 

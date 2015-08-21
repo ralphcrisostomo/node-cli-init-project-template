@@ -42,6 +42,8 @@ gulp.task 'default', ->
   console.log '  gulp test:unit \t\t - Unit test everything inside `/app` directory.'
   console.log '  gulp test:integration \t - Integration testing.'
   console.log ''
+  console.log '  gulp template:module \t\t - Generate module and test file.'
+  console.log ''
   console.log ''
 
 

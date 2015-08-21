@@ -1,8 +1,8 @@
 'use strict'
 
-class App
+class Sample
 
   constructor : ->
     console.log 'hello world'
 
-module.exports = App
+module.exports = Sample
